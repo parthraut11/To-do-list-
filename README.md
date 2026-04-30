@@ -5,6 +5,9 @@ A minimalist, responsive To-Do List application built with vanilla JavaScript. T
 Key Features:
 
 ➕ Add tasks instantly
-✅ Mark tasks as complete with a click
+
+✅ Mark tasks as complete with a 
+
 🗑️ Remove tasks from your list
+
 📱 Fully responsive design for mobile and desktop
